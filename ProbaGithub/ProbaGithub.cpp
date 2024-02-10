@@ -7,6 +7,10 @@ int main()
 {
     std::cout << "Privet Milan!\n";
     std::cout << "Privet Milan!\n";
+    std::cout << "!!!!!!!!!!!\n";
+    std::cout << "!!!!!!!!!!\n";
+    std::cout << "!!!!!!!!!!!\n";
+    
 
 }
 
