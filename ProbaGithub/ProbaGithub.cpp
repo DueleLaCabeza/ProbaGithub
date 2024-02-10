@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Privet Egor!\n";
+    std::cout << "Privet Milan!\n";
 
 }
 
